@@ -1,0 +1,5 @@
+*.json
+*.log
+.env
+secrets/
+node_modules/
